@@ -1,3 +1,4 @@
-# New project
+# new project
 
-This project was created from local system.
+This projct was created from local system.
+created by daksh patel
